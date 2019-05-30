@@ -1,0 +1,8 @@
+.idea
+.settings
+bin
+target
+.classpath
+.project
+webdriver-java.iml
+Instruções git pelo GIT BASH.txt
