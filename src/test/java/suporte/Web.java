@@ -8,7 +8,7 @@ public class Web {
 
     public static WebDriver abrirPagina(){
       
-    	System.setProperty("webdriver.chrome.driver", "C:\\Users\\pannuviam\\DRIVERS\\chromedriver.exe");
+    	System.setProperty("webdriver.chrome.driver", "D:\\DBSERVER\\BACKUP PROJETOS\\eclipse-workspace\\curso-selenium-java-juliodelima\\src\\test\\java\\drivers\\chromedriver.exe");
         WebDriver navegador = new ChromeDriver();
         navegador.manage().timeouts().implicitlyWait(5,TimeUnit.SECONDS);
 
